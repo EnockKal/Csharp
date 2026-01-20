@@ -1,10 +1,13 @@
-﻿namespace Interface
+﻿namespace Interface;
+
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        IAnimal dog = new Dog();
+        IAnimal cat = new Cat();
+
+        dog.speak();
+        cat.speak();
     }
 }
