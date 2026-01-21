@@ -2,7 +2,7 @@
 
 public class Stack
 {
-    private List<Object> _object;
+    private readonly List<Object> _object;
 
     public Stack()
     {
