@@ -3,6 +3,8 @@
 This repository contains my C# practice projects, exercises, and notes
 as I learn and improve my skills in C# and .NET.
 
+I'm learning from codewithmosh.com
+
 ## What's Inside
 - **Exercises/** → small coding problems and practice
 - **Learning/** → learning projects, experiments, and examples
@@ -12,6 +14,7 @@ as I learn and improve my skills in C# and .NET.
 - OOP (classes, objects, inheritance, polymorphism)
 - Console applications
 - Database connections (Oracle + SQL Server) *(when available)*
+- And more...
 
 ## How to Run
 1. Open the project in **Visual Studio**
